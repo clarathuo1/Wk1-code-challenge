@@ -16,7 +16,11 @@ Net Salary Calculator; calculate an individual’s Net Salary by getting the inp
 
 INSTALLATION:
 
-You use git clone to be able to download from github.  
+Clone the repository from GitHub using the command git clone git@github.com:clarathuo1/Wk1-code-challenge.git
+
+Open the cloned repository in your code editor.
+
+
 
 INSTALLATIONS REQUIREMENTS :
 
